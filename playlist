@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+    background: transparent;
+}
+</style>
+</head>
+<body>
+
+<!-- SCM Music Player -->
+<script
+    type="text/javascript"
+    src="https://scmplayer.net/script.scm.js"
+    data-config="{'skin':'skins/cyber/skin.css','volume':30,'shuffle':true,'repeat':0,'placement':'top','showplaylist':false,'playlist':[{'title':'The Point of No Return - Old Secret','url':'https://www.youtube.com/watch?v=Vwa3KDISNkA'},{'title':'Aftermath of Winning - Beautiful Dead','url':'https://www.youtube.com/watch?v=vOnwjBpR1Sc'},{'title':'New World, New Me - Somewhere In The Woods','url':'https://www.youtube.com/watch?v=zvb8hTgVyyI'},{'title':'Grian - Trainwreck Of Electro Swing','url':'https://www.youtube.com/watch?v=2c1iSpk3u1A'},{'title':'Scott - Moonsetter','url':'https://www.youtube.com/watch?v=75kJb_aAvKY'},{'title':'Pearl - Dragon Roost Island','url':'https://www.youtube.com/watch?v=SfaNKs2KZ1o'},{'title':'Martyn - Waltz for Zizi','url':'https://www.youtube.com/watch?v=Qbip5oZVL94'},{'title':'Scar - Carnival Kerfuffle','url':'https://www.youtube.com/watch?v=ShRtTavUDi8'},{'title':'Cleo - Graveyard Shift','url':'https://www.youtube.com/watch?v=KZKP6WYZLtI'},{'title':'Joel - Bosco%27s','url':'https://www.youtube.com/watch?v=hfmCyJESD7E'},{'title':'Side B - Promise (Reprise)','url':'https://www.youtube.com/watch?v=ZwLvcaDMhU8'},{'title':'Sun - Sunslammer','url':'https://www.youtube.com/watch?v=_1DSWI06Uvw'},{'title':'Stars - The Apex of the World (Rain)','url':'https://www.youtube.com/watch?v=ydigUA_gyso'},{'title':'Moon - Molduga','url':'https://www.youtube.com/watch?v=_lA6KS6HXDM'},{'title':'Mars - The Blind Prophet','url':'https://www.youtube.com/watch?v=nClhUae7DMs'},{'title':'Earth - VS. Star Dream','url':'https://www.youtube.com/watch?v=h7ha6JMgQwk'},{'title':'Pluto - Battle (Zinnia)','url':'https://www.youtube.com/watch?v=PjZvJZ6wRe8'},{'title':'Mercury - Box 16','url':'https://www.youtube.com/watch?v=7CwvrVNlacw'}]}"
+></script>
+
+</body>
+</html>
